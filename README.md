@@ -1,2 +1,1 @@
-# RayTracing
-Sequential and Parallel RayTracing
+# PARP
